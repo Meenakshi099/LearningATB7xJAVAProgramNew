@@ -1,11 +1,7 @@
 package ex_28082024;
 
-public class labnew {
+public class labhii {
     public static void main(String[] args) {
-        System.out.println("hello world");
-
+        System.out.println("meenu");
     }
-
-
-
 }

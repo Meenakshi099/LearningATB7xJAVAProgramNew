@@ -1,4 +1,4 @@
-package ex2_Abstr;
+package ex_11082024.ex_interfce_ex1.ex2_Abstr;
 
 public class Car extends Engine {
 

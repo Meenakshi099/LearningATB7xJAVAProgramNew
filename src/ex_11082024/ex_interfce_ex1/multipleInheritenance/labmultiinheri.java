@@ -1,4 +1,4 @@
-package multipleInheritenance;
+package ex_11082024.ex_interfce_ex1.multipleInheritenance;
 
 public class labmultiinheri {
     // Interface - Hide the implementation
